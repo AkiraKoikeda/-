@@ -20,8 +20,8 @@ header{
   width: 300px;
   background-color: #EEEEEE;
   position: relative;
-  padding: 10px;
   margin-right: 30px;
+  padding: 10px;
 }
 
 .content:last-child{
